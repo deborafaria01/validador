@@ -1,7 +1,7 @@
 ## Validador
 
-### Objetivo:
+#### Objetivo:
 
-### Tecnologia utilizada: Javascript 
+#### Tecnologia utilizada: Javascript 
 
-### Integrantes: Debora Faria 
+#### Integrantes: Debora Faria 
