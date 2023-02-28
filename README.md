@@ -2,6 +2,6 @@
 
 ### Objetivo:
 
-### Tecnologia utilizada: 
+### Tecnologia utilizada: Javascript 
 
 ### Integrantes: Debora Faria 
